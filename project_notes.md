@@ -7,6 +7,8 @@ What question will our team investigate?
 - Student name: analysis and visualisation
 - Student name: data documentation
 
-##Research Question
+## Research Question
 Find the number of students that have cats
 
+## Method Section
+survey and survey and survey
